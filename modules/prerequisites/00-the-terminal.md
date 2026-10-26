@@ -1,4 +1,3 @@
-
 # M00 · The Terminal
 > Own the machine you already have: shell, editor, version control, one scripting language, and the math floor.
 
